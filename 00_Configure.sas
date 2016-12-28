@@ -155,6 +155,7 @@ ODS tagsets.sasreport13(ID=EGSRX) FILE=EGSRX
 %LET _CLIENTPROJECTNAME='Auto_Lease_Master5.egp';
 %LET _SASPROGRAMFILE=;
 
+/*ADDING A NEW COMMENT TO INDICATE START OF THE PROGRAM*/
 GOPTIONS ACCESSIBLE;
 /*******************************************************************************************************************************************************/
 /* Program Name: 00_Configure.sas*/
